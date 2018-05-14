@@ -1,6 +1,5 @@
 #pragma once
-#include<iostream>
-using namespace std;
+#include"Library.h"
 class Date {
 private:
 	int dd;
